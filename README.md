@@ -14,3 +14,4 @@ La solución que he pensado para que los marcadores mas actualizados se impriman
 
 Cuando se modifica un resultado, se elimina el objeto Game del Scoreboard y lo se añade con el nuevo resultado y en el metodo utilizado para imprimir marcadores imprimo la información del listado del ultimo al primero.
 
+He ido construyendo el proyecto junto con las pruebas de ambas clases, siendo las pruebas de la clase Scoreboard la de mayor extensión.
